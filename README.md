@@ -53,7 +53,7 @@ WGUPS\_Package\_Tracker/
 
 **Screenshot of the Graphical User Interface**
 
-![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/app%20images/gui%20print.PNG)
+![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/gui%20print.PNG)
 
 
 
