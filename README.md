@@ -1,4 +1,4 @@
-﻿**WGUPS Package Tracker**
+﻿# WGUPS Package Tracker #
 
 **Description:** The WGUPS Package Tracker is a Python-based application that facilitates the efficient management and tracking of package deliveries for the Western Governors University Parcel Service (WGUPS). The application uses Tkinter, a standard Python GUI library, to provide a user-friendly interface for querying package statuses, tracking truck routes, and calculating delivery mileage. The project was created and executed within a virtual environment to ensure a clean and isolated development environment.
 ****
@@ -47,15 +47,16 @@ WGUPS\_Package\_Tracker/
 
 └── truck\_data.json
 
-
+**Note:** Please ensure that all the required data files (**DistanceData.csv**, **PackageData.csv**, and **truck\_data.json**) are present in the project directory before running the application. These files contain essential information for package tracking, mileage calculation, and truck assignment.
 
 ****
 
-**Screenshot of the Graphical User Interface**
 
-![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/gui%20print.PNG)
+**Screenshot of the Graphical User Interface and console:**
+
+![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/gui%20print.PNG)![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/console%20print1.PNG){width=6 height=4}
 
 
 
-**Note:** Please ensure that all the required data files (**DistanceData.csv**, **PackageData.csv**, and **truck\_data.json**) are present in the project directory before running the application. These files contain essential information for package tracking, mileage calculation, and truck assignment.
+
 
