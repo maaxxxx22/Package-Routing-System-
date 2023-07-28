@@ -15,6 +15,7 @@
 - **datetime**: For handling date and time-related operations.
 - **csv**: For reading the DistanceData.csv and PackageData.csv files.
 - **json**: For reading the truck\_data.json file.
+- **PySimpleGUI**: For creating a nice looking user interface.
 - **tkinter.messagebox**: For displaying error messages in the GUI.
 - **tkinter.ttk**: For creating the combobox in the GUI.
 
