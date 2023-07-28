@@ -54,7 +54,7 @@ WGUPS\_Package\_Tracker/
 
 **Screenshot of the Graphical User Interface and console:**
 
-![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/gui%20print.PNG)![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/console%20print1.PNG){width=6 height=4}
+![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/gui%20print.PNG)![alt text](https://github.com/maaxxxx22/Package-Routing-System-/blob/main/Screenshots/console%20print1.PNG)
 
 
 
